@@ -8,10 +8,11 @@
 <div align="center>
   
   Currently learning : **Python programming, Power BI**
-  
 </div>
+
 <br/>
-<div align="center">
+
+<div align="right">
   <a href="mailto:natthayas@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
