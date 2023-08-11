@@ -6,7 +6,6 @@
 <br/>
 
 <div align="center>
-  
   Currently learning : **Python programming, Power BI**
 </div>
 
